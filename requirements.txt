@@ -1,1 +1,5 @@
-PyQt6
+PyQt6>=6.4.0,<7.0.0
+requests>=2.28.0
+pyshortcuts>=1.1.0
+# Optional: winshell (if pyshortcuts causes issues on Windows)
+# winshell>=0.6.5
